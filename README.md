@@ -2,11 +2,12 @@
 Estructura de Datos (25/4/2023 - 1° Semestre)
 
 Árbol Binario de Búsqueda (ABB)
-   Crea ABB --> *ABB
-   Elimina ABB --> *ABB -> int
-   Agrega Número ABB --> *ABB, número -> *ABB
-   Busca Número ABB --> *ABB, número -> int pos
-   Elimina Número ABB --> *ABB, número -> ABB*, int
+   Crea ABB --> int
+   Elimina ABB --> ABB 
+   Agrega Número ABB --> int, ABB 
+   Busca Número ABB --> int, ABB
+   Elimina Número ABB --> int, ABB
+   Recorre ABB (En orden) --> ABB
 
 Tipo de estructura
   typedef struct_abb {
